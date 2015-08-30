@@ -1,5 +1,5 @@
 # panels-plugin
-Link: http://portfolio-examples.github.io/panels-plugin/
+Link: http://pszalewski86.github.io/panels-plugin/
 <h4>Description</h4>
 This plugin allows user to create any tree structure and display it in nice, simple and usable nested panels.
 <h4>Objectives</h4>
