@@ -1,5 +1,5 @@
 <h1>panels-plugin</h1>
-<a href="http://pawelsz1986.github.io/panels-plugin/">Demo</a>
+<a href="http://1986psz.github.io/panels-plugin/">Demo</a>
 <h4>Description</h4>
 <p>This plugin allows user to create any tree structure and display it in nice, simple and usable nested panels.</p>
 <h4>Objectives</h4>
